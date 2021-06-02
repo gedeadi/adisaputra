@@ -1,0 +1,202 @@
+body{
+	font-family: arial;
+	margin: 0;
+}
+
+.container{
+	margin: auto;
+}
+
+.header{
+	line-height: 40px;
+	clear: both;
+}
+
+.logo{
+	padding-left: 50px;
+	float: left;
+	padding-top: 25px;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.logo a{
+	text-decoration: none;
+	color: black;
+}
+
+.navigasi{
+	padding-right: 50px;
+	float: right;
+	padding-top: 10px;
+}
+
+.navigasi ul li{
+	text-align: center;
+	display: inline-block;
+}
+
+.navigasi a{
+	text-decoration: none;
+	color: black;
+	padding: 10px 10px;
+}
+
+.navigasi a:hover{
+	background-color: black;
+	color: white;
+}
+
+.header .garis{
+	clear: both;
+}
+
+.banner{
+	clear: both;
+	height: 400px;
+	width: auto;
+	background-image: url(banner5.jpg);
+	background-size: cover;
+	text-align: right;
+}
+
+.banner h1{
+	margin-top: 150px;
+	margin-right: 50px;
+	font-size: 50px;
+}
+
+.banner p{
+	margin-right: 160px;
+	font-size: 30px;
+	line-height: 20px;
+	color: black;
+}
+
+.posthome{
+	width: 80%;
+	height: 1000px;
+	margin: auto;
+}
+
+.posthome h1{
+	text-align: center;
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.isiposthome{
+	width: 31%;
+	height: 350px;
+	float: left;
+	text-align: center;
+	padding: 1%; 
+}
+
+.judulposthome a{
+	text-decoration: none;
+	color: black;
+	font-size: 30px;
+	font-weight: bold;
+	line-height: 40px; 
+}
+
+.judul h1{
+	text-align: center;
+	font-size: 50px;
+}
+
+.post{
+	clear: both;
+}
+
+.isi{
+	padding-top: 10px;
+	width: 50%;
+	margin: auto;
+	text-align: justify;
+	padding-bottom: 40px;
+	line-height: 30px;
+	font-size: 19px;
+}
+
+.footer {
+	background-color: black;
+	padding: 20px;
+}
+
+.footer1{
+	width: 85%;
+	margin: auto;
+}
+
+.footerkiri {
+	float: left;
+	width: 30%;
+}
+
+.footerkiri h4{
+	font-size: 20px;
+	color: white;
+}
+
+.footerkiri ul li{
+	font-size: 15px;
+	list-style-type: none;
+	padding-top: 10px;
+	color: white;
+	margin-left: -40px;
+}
+
+.footerkiri a{
+	text-decoration: none;
+	color: white;
+}
+
+.footerkiri a:hover{
+	color: grey;
+}
+
+.footertengah {
+	float:left;
+	width: 40%;
+}
+
+.footertengah h4{
+	font-size: 20px;
+	color: white;
+}
+
+.footertengah ul li{
+	font-size: 15px;
+	list-style-type: none;
+	padding-top: 10px;
+	color: white;
+	margin-left: -40px;
+}
+
+.footerkanan {
+	float: right;
+	width: 30%;
+}
+
+.footerkanan h4{
+	font-size: 20px;
+	color: white;
+}
+
+.footerkanan ul li{
+	font-size: 15px;
+	list-style-type: none;
+	padding-top: 10px;
+	color: white;
+	margin-left: -40px;
+}
+
+.footer2 {
+	font-size: 12px;
+	color: white;
+	text-align: center;
+	padding-top: 50px;
+	clear: both;
+}
