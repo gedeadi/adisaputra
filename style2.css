@@ -123,6 +123,7 @@ body{
 .footer {
 	background-color: black;
 	padding: 20px;
+	height: 300px;
 }
 
 .footer1{
@@ -193,10 +194,3 @@ body{
 	margin-left: -40px;
 }
 
-.footer2 {
-	font-size: 12px;
-	color: white;
-	text-align: center;
-	padding-top: 50px;
-	clear: both;
-}
